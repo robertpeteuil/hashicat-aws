@@ -1,5 +1,5 @@
 module "vpc" {
-  source  = "app.terraform.io/rpeteuil-training2/vpc/aws"
+  source  = "app.terraform.io/multicloud-workshop/vpc/aws"
   version = "2.25.0"
 
   name = "rpeteuil-vpc"
