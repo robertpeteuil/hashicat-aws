@@ -1,6 +1,6 @@
 module "vpc" {
   source  = "app.terraform.io/multicloud-workshop/vpc/aws"
-  version = "2.25.0"
+  version = "2.21.0"
 
   name = "rpeteuil-vpc"
   cidr = "10.0.0.0/16"
