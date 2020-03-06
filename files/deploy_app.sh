@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  ${PREFIX}'s Catchy Marketing Phrase.
+  ${PREFIX}'s The workshop rocks.
   <!-- END -->
 
   </div>
